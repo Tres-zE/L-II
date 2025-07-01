@@ -167,3 +167,6 @@ console.log(`¿El usuario es mayor de edad? ${edadUsuario >= edadMinima}`); // S
 
 let numero = 15;
 console.log(`¿El número ${numero} es par? ${numero % 2 === 0}`); // Salida: ¿El número 15 es par? false
+
+let number = 15;
+console.log('¿El numero es impar?', number % 2 === 1); // Salida: ¿El numero es impar? true
